@@ -1,2 +1,2 @@
 # ios-notuse
-<img width="1431" alt="image" src="https://github.com/nanacode4/yelpcamp/assets/144553987/5e78c966-4616-492a-b465-f99903f86eb3">
+<img src="https://github.com/nanacode4/ios-notuse/blob/main/src/Screenshot%202025-02-20%20at%2017.34.57.png?raw=true" width="600">
