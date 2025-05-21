@@ -1,26 +1,40 @@
 
-📱 Smart Campus Parking Management System
-Platform: iOS | Framework: React Native
+# 📱 Smart Campus Parking Management System
 
-This mobile app provides a smart, seamless parking experience for university campuses. Users can log in securely, check available parking spaces in real-time, and view them on an interactive campus map.
+**Platform:** iOS  
+**Framework:** React Native  
 
-🌟 Key Features:
-User Authentication: Secure login and sign-up interface
+A mobile application designed to simplify and improve campus parking management. This system allows users to log in, check real-time parking availability, and navigate using an interactive map interface.
 
-Live Parking Info: Real-time display of available parking spaces
+## 🧩 Key Features
 
-Map Integration: Interactive campus map with parking lot markers
+- 🔐 **User Authentication**  
+  Secure login and sign-up interface for registered users.
 
-Reservation System: Reserve a space before arrival (optional feature)
+- 🚗 **Live Parking Availability**  
+  Real-time data display for available parking spaces on campus.
 
-🚀 Tech Stack:
-Frontend: React Native (iOS-focused UI)
+- 🗺️ **Interactive Campus Map**  
+  Map view with parking lot markers and navigation assistance.
 
-Map: Apple Maps integration
+- 📅 **Reservation System (Optional)**  
+  Users can reserve parking spots in advance (prototype feature).
 
-State Management: React hooks
+## ⚙️ Tech Stack
 
-Authentication: Placeholder logic for secure user login
+- **Frontend**: React Native  
+- **Map Integration**: Apple Maps API  
+- **State Management**: React Hooks  
+- **Authentication**: Form-based login UI (extensible for Firebase, etc.)
 
-This project showcases clean UI design, intuitive user experience, and mobile-first development practices. Ideal for campus-wide deployment or as a prototype for smart city parking systems.
+## 🏁 Preview
 <img src="https://github.com/nanacode4/ios-notuse/blob/main/src/Screenshot%202025-02-20%20at%2017.34.57.png?raw=true" width="600">
+
+## 💡 Highlights
+
+This project demonstrates:
+- Mobile-first design principles
+- User-friendly UI/UX for parking systems
+- Practical implementation for smart campus or smart city applications
+
+---
