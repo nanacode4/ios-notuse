@@ -23,9 +23,8 @@ A mobile application designed to simplify and improve campus parking management.
 ## ⚙️ Tech Stack
 
 - **Frontend**: React Native  
-- **Map Integration**: Apple Maps API  
+- **Map Integration**: Google Maps API  
 - **State Management**: React Hooks  
-- **Authentication**: Form-based login UI (extensible for Firebase, etc.)
 
 ## 🏁 Preview
 <img src="https://github.com/nanacode4/ios-notuse/blob/main/src/Screenshot%202025-02-20%20at%2017.34.57.png?raw=true" width="600">
@@ -35,6 +34,5 @@ A mobile application designed to simplify and improve campus parking management.
 This project demonstrates:
 - Mobile-first design principles
 - User-friendly UI/UX for parking systems
-- Practical implementation for smart campus or smart city applications
+- Practical implementation for smart campus applications
 
----
