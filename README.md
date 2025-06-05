@@ -17,8 +17,8 @@ A mobile application designed to simplify and improve campus parking management.
 - 🗺️ **Interactive Campus Map**  
   Map view with parking lot markers and navigation assistance.
 
-- 📅 **Reservation System (Optional)**  
-  Users can reserve parking spots in advance (prototype feature).
+- 📅 **Reservation System **  
+  Users can reserve parking spots in advance.
 
 ## ⚙️ Tech Stack
 
